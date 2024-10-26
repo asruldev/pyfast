@@ -1,0 +1,1 @@
+> Ini menggunakan tesseract untuk OCR: `brew install tesseract`

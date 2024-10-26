@@ -1,0 +1,6 @@
+fastenv
+*.db
+requirements.txt
+file.py
+document.*
+auth*
